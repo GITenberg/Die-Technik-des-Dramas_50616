@@ -1,4 +1,8 @@
 _repo: Die-Technik-des-Dramas_50616
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50616-h/images/cover.jpg
 creator:
   author:
     agent_name: Freytag, Gustav
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8864
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Freytag
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50616#Die-Technik-des-Dramas
 gutenberg_issued: '2015-12-05'
 gutenberg_type: Text
 identifiers:
